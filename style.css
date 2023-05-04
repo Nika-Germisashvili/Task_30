@@ -85,6 +85,10 @@ header {
   position: absolute;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .head-top {
   width: 100%;
   display: flex;
